@@ -10,6 +10,8 @@ public class Change {
         int[] coinList = {500, 100, 50, 10};
         int money = scanner.nextInt();
 
+        long start = TimeSet.timeStart();
+
         int count = 0;
 
         for (int coin : coinList) {
@@ -18,5 +20,6 @@ public class Change {
         }
 
         System.out.println(count);
+        TimeSet.timeEnd(start);
     }
 }

@@ -10,6 +10,8 @@ public class ToTheOne {
         int n = scanner.nextInt(), k = scanner.nextInt();
         int count = 0;
 
+        long start = TimeSet.timeStart();
+
         while (n != 1) {
             if (n % k != 0) {
                 --n;
@@ -20,5 +22,7 @@ public class ToTheOne {
         }
 
         System.out.println(count);
+
+        TimeSet.timeEnd(start);
     }
 }
