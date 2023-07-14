@@ -2,6 +2,7 @@ package Two.Own;
 
 import java.util.Scanner;
 
+// 그리드: 1이 될 때까지 문제
 public class ToTheOne {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

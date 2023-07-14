@@ -2,7 +2,8 @@
 
 코딩 테스트와 [PCCP](https://certi.programmers.co.kr/about/pccp) 자격증 취득을 위해 
 ['이것이 취업을 위한 코딩 테스트다 with 파이썬'](https://product.kyobobook.co.kr/detail/S000001810273)
-책을 보며 연습하는 Java 코드입니다.    
+책을 보며 연습하는 Java 코드입니다.  
+JDK 버전은 11로 진행했습니다.
 
 ### 파일 설명
 
