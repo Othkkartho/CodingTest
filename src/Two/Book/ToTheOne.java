@@ -2,7 +2,7 @@ package Two.Book;
 
 import java.util.Scanner;
 
-public class ToTheOneBook {
+public class ToTheOne {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // N, K를 공백을 기준으로 구분하여 입력 받기
