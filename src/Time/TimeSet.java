@@ -1,4 +1,4 @@
-package Two.Own;
+package Time;
 
 public class TimeSet {
     public static long timeStart() {

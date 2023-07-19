@@ -1,5 +1,7 @@
 package Two.Own;
 
+import Time.TimeSet;
+
 import java.util.Scanner;
 
 // 그리드: 1이 될 때까지 문제

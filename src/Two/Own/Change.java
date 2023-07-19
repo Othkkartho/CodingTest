@@ -1,5 +1,7 @@
 package Two.Own;
 
+import Time.TimeSet;
+
 import java.util.Scanner;
 
 // 그리드: 거스름돈 문제

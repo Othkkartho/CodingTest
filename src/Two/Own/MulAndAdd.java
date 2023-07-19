@@ -1,5 +1,7 @@
 package Two.Own;
 
+import Time.TimeSet;
+
 import java.util.Scanner;
 
 // 그리드: 곱하기 혹은 더하기 문제
