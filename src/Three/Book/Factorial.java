@@ -6,6 +6,7 @@ public class Factorial {
         System.out.println("재귀적으로 구현: " + factorial_recursive(5));
     }
 
+    // 반복적으로 구현한 n!
     public static int factorial_iterative(int n) {
         int result = 1;
 
@@ -15,6 +16,7 @@ public class Factorial {
         return result;
     }
 
+    // 재귀적으로 구현한 n!
     public static int factorial_recursive(int n) {
         if (n <= 1)
             return 1;
